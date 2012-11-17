@@ -1,0 +1,18 @@
+[submodule "EvalSelection.vim"]
+	path = EvalSelection.vim
+	url = git://github.com/vim-scripts/EvalSelection.vim.git
+[submodule "mysnippets"]
+	path = mysnippets
+	url = git@github.com:visibletrap/mysnippets.git
+[submodule "vim-jade"]
+	path = vim-jade
+	url = git://github.com/digitaltoad/vim-jade.git
+[submodule "VimClojure"]
+	path = VimClojure
+	url = git://github.com/vim-scripts/VimClojure.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = git://github.com/tpope/vim-bundler.git
+[submodule "vim-ruby-refactoring"]
+	path = vim-ruby-refactoring
+	url = git://github.com/ecomba/vim-ruby-refactoring.git
