@@ -16,3 +16,6 @@
 [submodule "vim-ruby-refactoring"]
 	path = vim-ruby-refactoring
 	url = git://github.com/ecomba/vim-ruby-refactoring.git
+[submodule "vim-jst"]
+	path = vim-jst
+	url = git://github.com/briancollins/vim-jst.git
