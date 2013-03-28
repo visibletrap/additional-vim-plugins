@@ -7,9 +7,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = git://github.com/digitaltoad/vim-jade.git
-[submodule "VimClojure"]
-	path = VimClojure
-	url = git://github.com/vim-scripts/VimClojure.git
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
