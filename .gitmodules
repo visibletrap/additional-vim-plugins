@@ -16,3 +16,6 @@
 [submodule "vim-jst"]
 	path = vim-jst
 	url = git://github.com/briancollins/vim-jst.git
+[submodule "vim-fireplace"]
+	path = vim-fireplace
+	url = git://github.com/tpope/vim-fireplace.git
