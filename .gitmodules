@@ -16,3 +16,6 @@
 [submodule "vim-fireplace"]
 	path = vim-fireplace
 	url = git://github.com/tpope/vim-fireplace.git
+[submodule "mysnippets"]
+	path = mysnippets
+	url = git://github.com/visibletrap/mysnippets.git
