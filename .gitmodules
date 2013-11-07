@@ -19,3 +19,6 @@
 [submodule "mysnippets"]
 	path = mysnippets
 	url = git://github.com/visibletrap/mysnippets.git
+[submodule "vim-turbux"]
+	path = vim-turbux
+	url = https://github.com/jgdavey/vim-turbux
